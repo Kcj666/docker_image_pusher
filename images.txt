@@ -7,3 +7,5 @@ xhofe/alist:latest
 alpine
 mysql:8.0.38
 python:alpine3.19
+tomcat
+redis
