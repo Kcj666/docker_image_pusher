@@ -9,3 +9,4 @@ mysql:8.0.38
 python:alpine3.19
 tomcat
 redis
+redis:6.0.8
